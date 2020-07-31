@@ -1,8 +1,9 @@
 ### Hi there 😄 . 
 
-## 🎈 I'm ShankCGC ( my nickname ) and I'm studying , more or less,  programming for 1 year.
+#Markdown
+- 🎈 I'm ShankCGC ( my nickname ) and I've been studying programming for almost a year
 
-# 💻 I'm currently studying ReactJS and Styled components
+- 💻 I'm currently studying ReactJS and Styled components
 
 <!--
 **ShankCGC/shankcgc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
