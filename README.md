@@ -1,4 +1,4 @@
-# 😄 | Hi there  . 
+## 😄 | Hi there  . 
 
 - 🎈 I'm ShankCGC ( my nickname ) and I've been studying programming for almost a year
 
