@@ -7,7 +7,8 @@
 ## 👨‍💻 | Things to do :
 
 - [ ] Terminate the user registration system
-- [ ] Study more about React
+- [ ] Terminate the ShankFlix
+- [ ] Terminate the Nlw #2
 - [ ] Start a new project
 
 [![Gmail URL](https://img.shields.io/twitter/url?color=D44638&label=Email&logo=gmail&logoColor=%23FFF&style=for-the-badge&url=https://mail.google.com/)](mailto:shankcgc@gmail.com)
