@@ -4,7 +4,7 @@
 
 - 💻 I'm currently studying ReactJS
 
-👨‍💻 | **Things to do :**
+## 👨‍💻 | Things to do :
 
 - [ ] Terminate the user registration system
 - [ ] Study more about the useState of React
