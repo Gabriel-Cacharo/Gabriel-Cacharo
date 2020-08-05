@@ -6,7 +6,7 @@
 
 ## 👨‍💻 | Things to do :
 
-- [ ] Make the user registration system responsive
+- [ ] Make the User registration system responsive
 - [ ] Finish Nlw #2
 - [ ] Start a new project
 - [ ] Start to study VueJs
