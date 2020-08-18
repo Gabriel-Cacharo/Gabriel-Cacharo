@@ -6,8 +6,8 @@
 
 ## 👨‍💻 | Things to do :
 
-- [ ] Finish Nlw #2
-- [ ] Start to study VueJs
+- [x] Finish Nlw #2
+- [x] Start to study VueJs
 - [ ] Start a new project
 
 [![Gmail URL](https://img.shields.io/twitter/url?color=D44638&label=Email&logo=gmail&logoColor=%23FFF&style=for-the-badge&url=https://mail.google.com/)](mailto:shankcgc@gmail.com)
