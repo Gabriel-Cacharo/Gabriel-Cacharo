@@ -2,7 +2,7 @@
 
 - 🎈 I'm ShankCGC ( my nickname ) and I've been studying programming for almost a year
 
-- 💻 I'm currently studying ReactJS
+- 💻 I'm currently studying VueJS
 
 ## 👨‍💻 | Things to do :
 
