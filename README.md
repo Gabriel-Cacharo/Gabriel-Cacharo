@@ -1,8 +1,27 @@
-## 😄 | Hi there  . 
+<div align="center">
 
-- 🎈 I'm Shank ( my nickname ) and I've been studying programming for almost a year
+## Shank7 😃
+🎈 Web Developer
 
-- 💻 I'm currently studying Express
+</div>
+
+---
+
+## ➥ About me
+
+💻 Learning and coding since 2019
+
+🇧🇷 Brazilian
+
+🖤 Web Development
+
+🤓 Learning BackEnd
+
+⏰ Free-time: Playing Games
+
+---
+
+## ➥ Contact
 
 [![Gmail URL](https://img.shields.io/twitter/url?color=D44638&label=Email&logo=gmail&logoColor=%23FFF&style=for-the-badge&url=https://mail.google.com/)](mailto:shankcgc@gmail.com)
 [![Twitter URL](https://img.shields.io/twitter/url?color=3397d8&label=Twitter&logo=twitter&logoColor=%23FFF&style=for-the-badge&url=https%3A%2F%2Fwww.twitter.com/cgc_shank)](https://twitter.com/Shank7_)
