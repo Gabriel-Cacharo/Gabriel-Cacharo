@@ -11,11 +11,11 @@
 
 💻 Learning and coding since 2019
 
-🇧🇷 Brazilian
+🍁 Brazilian
 
 🖤 Web Development
 
-🤓 Learning BackEnd
+🤍 ReactJs
 
 ⏰ Free-time: Playing Games
 
