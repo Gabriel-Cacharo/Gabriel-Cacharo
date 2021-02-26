@@ -1,6 +1,6 @@
 <div align="center">
 
-## Shank7 😃
+## Gabriel Shank 😃
 🎈 Web Developer
 
 </div>
