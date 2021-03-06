@@ -19,6 +19,8 @@
 
 ⏰ Free-time: Playing Games
 
+📧 Discord: Shank7#0007
+
 ---
 
 ## ➥ Contact
