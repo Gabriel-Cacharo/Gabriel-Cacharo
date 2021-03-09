@@ -24,7 +24,7 @@
 
 ---
 
-## ➥ Contact
+## 📧 Contact
 
 [![Gmail Badge](https://img.shields.io/badge/-shankcgc@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shankcgc@gmail.com)](mailto:shankcgc@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-shank7.gg-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/shank7.gg?hl=pt-br)](https://www.instagram.com/shank7.gg)
