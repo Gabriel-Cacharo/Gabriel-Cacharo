@@ -21,6 +21,8 @@
 
 📧 Discord: Shank7#0007
 
+📷 Instagram: shank7.gg
+
 ---
 
 ## ➥ Contact
