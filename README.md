@@ -7,26 +7,17 @@
 
 ---
 
-## ➥ About me
-
-💻 Learning and coding since 2019
-
-🍁 Brazilian
-
-🖤 Web Development
-
-🤍 ReactJs
-
-⏰ Free-time: Playing Games
-
-📧 Discord: Shank7#0007
-
-📷 Instagram: shank7.gg
+<h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Natanael</h1>
+<p align = "justify">Web Developer, Coffee lover and Programming Enthusiast</p>
 
 ---
 
 ## ➥ Contact
 
-[![Gmail URL](https://img.shields.io/twitter/url?color=D44638&label=Email&logo=gmail&logoColor=%23FFF&style=for-the-badge&url=https://mail.google.com/)](mailto:shankcgc@gmail.com)
-[![Twitter URL](https://img.shields.io/twitter/url?color=3397d8&label=Twitter&logo=twitter&logoColor=%23FFF&style=for-the-badge&url=https%3A%2F%2Fhttps://twitter.com/Shank7_)](https://twitter.com/Shank7_)
+[![Gmail Badge](https://img.shields.io/badge/-natansl@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shankcgc@gmail.com)](mailto:shankcgc@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-shank7.gg-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/shank7.gg?hl=pt-br)](https://www.instagram.com/shank7.gg)
+
+## ⚡ GitHub Stats
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Gabriel-Shank&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Shank&hide=TeX&layout=compact)
