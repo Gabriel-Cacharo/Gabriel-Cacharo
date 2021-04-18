@@ -3,7 +3,7 @@
 <div align="center">
 
 ## Gabriel Shank 😃
-🎈 Web Developer, Coffee lover and Programming Enthusiast
+🎈 Web Developer, Programming Enthusiast
 
 </div>
 
