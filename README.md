@@ -36,5 +36,5 @@
 
 ## ⚡ GitHub Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Gabriel-Shank&show_icons=true&count_private=true&show_icons=true&include_all_commits=true&title_color=FF1818)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Gabriel-Shank&show_icons=true&count_private=true&show_icons=true&include_all_commits=true&title_color=FF1818&bg_color=1F1E1E)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Shank&hide=TeX&layout=compact)
