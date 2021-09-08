@@ -2,7 +2,7 @@
 
 <div align="center">
 
-## Gabriel Shank 😃
+## Gabriel 😃
 🎈 16 Years, Web Developer, Programming Enthusiast
 
 </div>
