@@ -1,5 +1,3 @@
-<p align="left"><img src="https://komarev.com/ghpvc/?username=Gabriel-Shank" alt="Gabriel-Shank" /></p>
-
 <div align="center">
 
 ## Gabriel 😃
