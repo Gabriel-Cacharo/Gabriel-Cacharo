@@ -33,7 +33,7 @@
 ## 📧 Contact
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:gaabrielcacharo.1@gmail.com)](mailto:gaabrielcacharo.1@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/shank7.gg?hl=pt-br)](https://www.instagram.com/shank.gg)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/gaabriel.cgc?hl=pt-br)](https://www.instagram.com/gaabriel.cgc)
 
 ## ⚡ GitHub Stats
 
