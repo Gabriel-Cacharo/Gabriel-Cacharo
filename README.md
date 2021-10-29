@@ -35,5 +35,9 @@
 
 ## ⚡ GitHub Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Gabriel-Cacharo&show_icons=true&count_private=true&show_icons=true&include_all_commits=true&title_color=cc0000&bg_color=1F1E1E&text_color=E5E5E5&border_color=1F1E1E)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Cacharo&hide=TeX&layout=compact&title_color=cc0000&bg_color=1F1E1E&text_color=E5E5E5&border_color=1F1E1E)
+<div align="center">
+  <div style="display: flex; align-items: flex-start;">
+    ![Github Stats](https://github-readme-stats.vercel.app/api?username=Gabriel-            Cacharo&show_icons=true&count_private=true&show_icons=true&include_all_commits=true&title_color=cc0000&bg_color=1F1E1E&text_color=E5E5E5&border_color=1F1E1E)
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-  Cacharo&hide=TeX&layout=compact&title_color=cc0000&bg_color=1F1E1E&text_color=E5E5E5&border_color=1F1E1E)
+  </div>
+</div>
