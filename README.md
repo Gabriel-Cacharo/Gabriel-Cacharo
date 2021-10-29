@@ -36,6 +36,6 @@
 ## ⚡ GitHub Stats
 
 <div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Cacharo&show_icons=true&count_private=true&show_icons=true&include_all_commits=true&title_color=113CFC&bg_color=1F1E1E&text_color=5C7AEA&border_color=1F1E1E" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Cacharo&hide=TeX&layout=compact&title_color=113CFC&bg_color=1F1E1E&text_color=5C7AEA&border_color=1F1E1E" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Gabriel-Cacharo&show_icons=true&count_private=true&show_icons=true&include_all_commits=true&title_color=113CFC&bg_color=1F1E1E&text_color=5C7AEA&border_color=1F1E1E" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Cacharo&hide=TeX&layout=compact&title_color=113CFC&bg_color=1F1E1E&text_color=5C7AEA&border_color=1F1E1E" />
 </div>
