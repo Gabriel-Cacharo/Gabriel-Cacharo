@@ -41,10 +41,3 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:gaabrielcacharo.1@gmail.com)](mailto:gaabrielcacharo.1@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/gaabriel.cgc?hl=pt-br)](https://www.instagram.com/gaabriel.cgc)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-cacharo-9780071b1/)
-
-## ⚡ GitHub Stats
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Gabriel-Cacharo&show_icons=true&count_private=true&show_icons=true&include_all_commits=true&title_color=113CFC&bg_color=1F1E1E&text_color=5C7AEA&border_color=1F1E1E" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Cacharo&hide=TeX&layout=compact&title_color=113CFC&bg_color=1F1E1E&text_color=5C7AEA&border_color=1F1E1E" />
-</div>
